@@ -1,0 +1,42 @@
+
+ziel
+
+- 1 1 1    4x3 Menge der einsen = 8
+0 0 1 1
+0 0 1 1
+
+st 1
+
+0 1         3x2 plus 2 columns links
+0 1            Menge der Einsen = 4
+0 1
+
+st 1 + 2L
+
+0 0 1 1     ziel minus st 1 + 2l
+0 0 0 1
+0 0 0 1
+
+
+
+Ziel - (st 1 + 2L) if einsenResult = einsen Ziel minus einsen St.1 -) next.
+
+0 0 0 1
+0 0 0 1
+0 0 0 1
+
+1 1 1
+
+1 1 1 0
+0 0 0 0
+0 0 0 0
+
+0 1 1 1
+0 0 0 0
+0 0 0 0
+
+transformierte Matrix
+
+1 0 0
+1
+1
