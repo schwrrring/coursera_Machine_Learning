@@ -1,0 +1,3 @@
+feel free to clone it if u had problems making the submit functionality work on your mac. 
+I forgot acctually, what made it work. One point for sure was the submitWithConfigs file in the lib folder. 
+But i guess there was more that i cant remember. Simple clone it and paste in files without solutions ;)
